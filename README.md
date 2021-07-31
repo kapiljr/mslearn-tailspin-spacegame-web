@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/Tailspin-kr/Space%20game%20-%20web%20-%20pipeline/_apis/build/status/kapiljr.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/Tailspin-kr/Space%20game%20-%20web%20-%20pipeline/_build/latest?definitionId=1&branchName=main)
+[![Build Status](https://dev.azure.com/Tailspin-kr/Space%20game%20-%20web%20-%20workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/Tailspin-kr/Space%20game%20-%20web%20-%20workflow/_build/latest?definitionId=2&branchName=main)
+
 
 # Contributing
 
