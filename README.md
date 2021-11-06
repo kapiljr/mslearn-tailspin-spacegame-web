@@ -1,7 +1,6 @@
 [![Build Status](https://dev.azure.com/Tailspin-kr/Space%20game%20-%20web%20-%20workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/Tailspin-kr/Space%20game%20-%20web%20-%20workflow/_build/latest?definitionId=2&branchName=main)
 
 
-[![Board Status](https://dev.azure.com/its-binary/4098f47e-9395-4588-b231-b89c3328a26c/f10e8b97-0b49-4213-8c0a-2fd5f34702f2/_apis/work/boardbadge/43a71e5f-9448-4404-9ffd-683ead76372c](https://dev.azure.com/its-binary/4098f47e-9395-4588-b231-b89c3328a26c/_boards/board/t/f10e8b97-0b49-4213-8c0a-2fd5f34702f2/Microsoft.EpicCategory/)
 
 # Contributing
 
